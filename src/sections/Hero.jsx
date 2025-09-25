@@ -30,7 +30,7 @@ const Hero = () => {
         <h1 data-aos="zoom-in" className='text-2xl p-3 text-black
         font-semibolds'>WELCOME TO</h1>
         <h1 data-aos="zoom-in" className='text-6xl text-black 
-        font-bold'>Barbershop <br></br> in Fort Worth<br></br>Texas</h1>
+        font-bold'>Pro-Barbershop <br></br> in Fort Worth<br></br>Texas</h1>
         <div data-aos="slide-up" id='icon-list' className='flex flex-col 
         justify-center items-start gap-6'>
           <div id='icon-box' className='flex justify-center items-center gap-3'>

@@ -27,8 +27,8 @@ const navItems = [
     <nav className='flex justify-between items-center gap-4 bg-black lg:px-10 px-4
     py-6 sticky top-0 z-30 border-[8px] border-[#a39446]'>
       <div id='logo'>
-        <h1 className='text-white font-bold text-5xl'>Barber <span className='italic 
-        text-yellow-600'>Shop</span></h1>
+        <h1 className='text-white font-bold text-5xl'><span className='italic 
+        text-yellow-600'>Pro-</span>BarberShop</h1>
       </div>
 
       <ul className='lg:flex justify-center items-center gap-6 hidden'>
